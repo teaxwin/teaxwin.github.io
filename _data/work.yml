@@ -4,7 +4,7 @@
 work:
   - category: Projects
     items:
-      - item: example.html
+      - item: https://google.com
         image: /images/NYC1.jpg # optionally, include the file path for an image for each item
       - item: example.html
         image: /images/NYC2.jpg

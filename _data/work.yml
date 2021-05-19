@@ -10,6 +10,10 @@ work:
         image: /images/NYC2.jpg
       - item: example3.html
         image: /images/NYC3.jpg
+      - item: example3.html
+        image: /images/NYC4.jpg
+      - item: stuff.html
+        image: /images/NYC3.jpg
         
   - category: UI/UX Case Studies
     items:

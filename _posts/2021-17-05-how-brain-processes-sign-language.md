@@ -12,7 +12,7 @@ Sign Language (SL) offers a unique opportunity to probe hypotheses regarding the
 
 
 ### REFERENCES:
-https://onlinelibrary.wiley.com/doi/10.1002/hbm.25254
+https://neurosciencenews.com/broca-area-sign-language-17820/
 
 https://medicalxpress.com/news2021-02-brain-language.html
 

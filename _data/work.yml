@@ -4,7 +4,7 @@
 work:
   - category: Technical Projects
     items:
-      - item: example1.html
+      - item: example.html
         image: /images/NYC1.jpg # optionally, include the file path for an image for each item
       - item: example2.html
         image: /images/NYC2.jpg
@@ -12,8 +12,6 @@ work:
         image: /images/NYC3.jpg
       - item: example3.html
         image: /images/NYC4.jpg
-      - item: stuff.html
-        image: /images/NYC3.jpg
         
   - category: UI/UX Case Studies
     items:

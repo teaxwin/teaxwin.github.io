@@ -44,6 +44,8 @@ cta_button_label: contact # the label on the button
 [//]: # (write a bit about yourself here)
 ### **I am** 
 
-### a pop addict.
+a pop addict.
 
-reading stuff so you don't have to.
+reading cool stuff (mostly science) so you don't have to.
+
+

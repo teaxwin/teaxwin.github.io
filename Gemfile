@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 gem "github-pages", group: :jekyll_plugins
 gem 'bootstrap', '~> 4.3.1'
-ruby "2.6.7"
+ruby "3.0.1"
 
 group :jekyll_plugins do
   gem 'jekyll-sitemap'

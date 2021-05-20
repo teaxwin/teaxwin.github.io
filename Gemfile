@@ -3,6 +3,7 @@ source "https://rubygems.org"
 gem 'github-page', group: :jekyll_plugins
 gem 'bootstrap', '~> 4.3.1'
 
+
 group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'jekyll-feed'

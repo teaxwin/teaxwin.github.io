@@ -1,6 +1,6 @@
 ---
 layout: post
-author: jill
+author: tw
 ---
 # From grandmother neuron to newest discovery about a new class of memory cells
 ### Grandmother Neuron

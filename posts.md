@@ -8,6 +8,7 @@
  </ul>
 
  ## Categories 
+ <ul>
  {% for category in site.categories %}
    <p>{{ category[0] }}</p>
    <ul>
@@ -16,6 +17,7 @@
      {% endfor %}
    </ul>
  {% endfor %}
+</ul>
 
  ## Tags 
  {% for tag in site.tags %}

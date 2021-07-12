@@ -1,5 +1,6 @@
 ---
 layout: post
+tag: memory
 author: tw
 ---
 # From grandmother neuron to newest discovery about a new class of memory cells

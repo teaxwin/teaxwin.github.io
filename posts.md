@@ -9,7 +9,7 @@
 
  ### Categories 
  {% for category in site.categories %}
-   <h3>{{ category[0] }}</h3>
+   <p>{{ category[0] }}</p>
    <ul>
      {% for post in category[1] %}
        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
@@ -19,7 +19,7 @@
 
  ### Tags 
  {% for tag in site.tags %}
-   <h3>{{ tag[0] }}</h3>
+   <p>{{ tag[0] }}</p>
    <ul>
      {% for post in tag[1] %}
        <li><a href="{{ post.url }}">{{ post.title }}</a></li>

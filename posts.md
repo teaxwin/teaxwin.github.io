@@ -1,4 +1,4 @@
-### All Posts
+## All Posts
  <ul>
    {% for post in site.posts %}
      <li>
@@ -7,7 +7,7 @@
    {% endfor %}
  </ul>
 
- ### Categories 
+ ## Categories 
  {% for category in site.categories %}
    <p>{{ category[0] }}</p>
    <ul>
@@ -17,7 +17,7 @@
    </ul>
  {% endfor %}
 
- ### Tags 
+ ## Tags 
  {% for tag in site.tags %}
    <p>{{ tag[0] }}</p>
    <ul>

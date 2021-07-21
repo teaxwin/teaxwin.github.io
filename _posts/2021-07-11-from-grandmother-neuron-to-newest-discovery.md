@@ -8,7 +8,7 @@ The idea first showed up in the 1960s as a theoretical brain cell that would cod
 However, new research reveals a class of neurons in the brain’s temporal pole region that links face perception to long-term memory. It’s a population of cells that collectively remembers grandma’s face.
 
 ### How did they do it?
-They used functional magnetic resonance imaging as a guide to zoom in on the temporal pole regions of two rhesus monkeys, and recorded the electrical signals of temporal pole neurons as the macaques watched images of familiar faces (which they had seen in-person) and unfamiliar faces that they had only seen virtually on screen.
+They used functional magnetic resonance imaging (fMRI) as a guide to zoom in on the temporal pole regions of two rhesus monkeys, and recorded the electrical signals of temporal pole neurons as the macaques watched images of familiar faces (which they had seen in-person) and unfamiliar faces that they had only seen virtually on screen.
 
 The team found that neurons in the TP region were responding threefold more strongly to familiar faces more strongly than unfamiliar faces. And the neurons were fast-- discriminating between known and unknown faces immediately upon processing the image.
 

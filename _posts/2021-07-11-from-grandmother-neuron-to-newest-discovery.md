@@ -3,6 +3,7 @@ layout: post
 author: tw
 ---
 # From grandmother neuron to newest discovery about a new class of memory cells
+## Keywords: 
 ### Grandmother Neuron
 The idea first showed up in the 1960s as a theoretical brain cell that would code for a specific, complex concept, all by itself. For example: one neuron for the memory of one’s grandmother, another to recall one’s mother, and so on. The idea was an attempt to tackle the mystery of how the brain combines what we see with our long-term memory. 
 However, new research reveals a class of neurons in the brain’s temporal pole region that links face perception to long-term memory. It’s a population of cells that collectively remembers grandma’s face.

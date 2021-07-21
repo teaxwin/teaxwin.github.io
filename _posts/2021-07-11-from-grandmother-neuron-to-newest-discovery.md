@@ -16,7 +16,7 @@ The team found that neurons in the TP region were responding threefold more stro
 
 ### Ok but what about grandmother neuron?
 
-Although the finding about grandmother neuron remained elusive, the first evidence of a hybrid brain cell, not unlike the fabled grandmother neuron. The cells of the TP region behave like sensory cells, with reliable and fast response to visual stimuli. But they also act like memory cells, which respond only to stimuli that the brain has seen before (i.e, familiar individuals). And more importantly, the cells of the TP region appear to work as “a collective” (unlike the theory). 
+Although the finding about grandmother neuron remained elusive, the first evidence of a hybrid brain cell, not unlike the fabled grandmother neuron. The cells of the TP region behave like sensory cells, with reliable and fast response to visual stimuli. But they also act like memory cells, which respond only to stimuli that the brain has seen before (i.e, familiar individuals). And more importantly, the cells of the TP region appear to work as “a collective” (unlike the theory that each cell is responsible to code for different memory). 
 
 
 

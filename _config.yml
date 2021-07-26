@@ -22,4 +22,4 @@ exclude:
   - Gemfile.lock
 
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-tactile

@@ -6,7 +6,7 @@ author: tw
 ### Keywords: 
 post-stroke aphasia, front assailant tract (FAT), neuroplasticity, vocal music, language
 
-
+## Introduction
 Stroke patients often experience post-stroke aphasia, an impairment of speech caused by disruptions in the language network brought on by brain tissue damage. Researchers show that the vocal component of the music is crucial for enhanced neuroplasticity changes in the left hemispheric white matter tracts in the brain, thus increasing the rehabilitation efficacy.
 
 ## Result

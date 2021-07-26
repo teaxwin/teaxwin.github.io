@@ -6,6 +6,7 @@ author: Tee Win
 description: > 
   Very cool science writing (imo)
 baseurl: ""
+markdown: kramdown
 
 plugins:
   - jekyll-feed
